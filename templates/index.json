@@ -284,12 +284,13 @@
       "settings": {
         "color_scheme": "accent-2",
         "full_width": true,
-        "padding_top": 40,
+        "padding_top": 44,
         "padding_bottom": 52
       }
     },
     "4274bd1b-b1cb-4872-b038-782a9a88d9bb": {
       "type": "multicolumn",
+      "disabled": true,
       "blocks": {
         "template--17056686080286__4274bd1b-b1cb-4872-b038-782a9a88d9bb-1669426684357783ca-0": {
           "type": "column",
@@ -377,6 +378,25 @@
         "padding_bottom": 36
       }
     },
+    "167410830388d9cf67": {
+      "type": "apps",
+      "blocks": {
+        "f0e34e5b-c48b-450e-86f3-0f98b9a05c30": {
+          "type": "shopify:\/\/apps\/instafeed-instagram-feed\/blocks\/app-block\/c447db20-095d-4a10-9725-b5977662c9d5",
+          "settings": {
+            "heading_size": 30,
+            "feed_width": 100,
+            "html_area": ""
+          }
+        }
+      },
+      "block_order": [
+        "f0e34e5b-c48b-450e-86f3-0f98b9a05c30"
+      ],
+      "settings": {
+        "include_margins": true
+      }
+    },
     "3df1c501-9869-4818-a24e-190db3d99dd9": {
       "type": "image-with-text",
       "blocks": {
@@ -409,10 +429,10 @@
       ],
       "settings": {
         "image": "shopify:\/\/shop_images\/heels.jpg",
-        "height": "small",
+        "height": "adapt",
         "desktop_image_width": "small",
         "layout": "image_first",
-        "desktop_content_position": "bottom",
+        "desktop_content_position": "middle",
         "desktop_content_alignment": "center",
         "content_layout": "no-overlap",
         "color_scheme": "background-1",
@@ -430,6 +450,7 @@
     "6a709ec2-be4e-4c0d-b7b7-46d42621012b",
     "8049d1f2-5f6e-404a-b147-3d81e581ca6b",
     "4274bd1b-b1cb-4872-b038-782a9a88d9bb",
+    "167410830388d9cf67",
     "3df1c501-9869-4818-a24e-190db3d99dd9"
   ]
 }
