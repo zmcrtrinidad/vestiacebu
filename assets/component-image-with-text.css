@@ -242,8 +242,9 @@
   .image-with-text.collapse-corners:not(.image-with-text--overlap) .image-with-text__grid--reverse .image-with-text__text-item:after,
   .image-with-text.collapse-corners:not(.image-with-text--overlap) .image-with-text__grid--reverse .image-with-text__content,
   .image-with-text.collapse-corners:not(.image-with-text--overlap) .image-with-text__grid--reverse .image-with-text__content:after {
-    border-top-right-radius: 0;
-    border-bottom-right-radius: 0;
+    /* border-top-right-radius: 0;
+    border-bottom-right-radius: 0; */
+    border-radius: 20px;
   }
 
   .image-with-text.collapse-corners:not(.image-with-text--overlap) .grid:not(.image-with-text__grid--reverse) .image-with-text__text-item:after,
