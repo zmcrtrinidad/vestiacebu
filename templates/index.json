@@ -290,6 +290,7 @@
     },
     "4274bd1b-b1cb-4872-b038-782a9a88d9bb": {
       "type": "multicolumn",
+      "disabled": true,
       "blocks": {
         "template--17056686080286__4274bd1b-b1cb-4872-b038-782a9a88d9bb-1669426684357783ca-0": {
           "type": "column",
@@ -383,7 +384,7 @@
         "f0e34e5b-c48b-450e-86f3-0f98b9a05c30": {
           "type": "shopify:\/\/apps\/instafeed-instagram-feed\/blocks\/app-block\/c447db20-095d-4a10-9725-b5977662c9d5",
           "settings": {
-            "heading_size": 20,
+            "heading_size": 30,
             "feed_width": 100,
             "html_area": ""
           }
