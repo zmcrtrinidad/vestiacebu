@@ -171,7 +171,7 @@
 .card__heading {
   margin-top: 0;
   margin-bottom: 0;
-  color: #FCDFCC;
+  color: #B76542;
 }
 
 .card__heading:last-child {
@@ -318,7 +318,7 @@
 
 .card-information > .price {
   color: rgb(var(--color-foreground));
-  color: #FCDFCC;
+  color: #B76542;
 }
 
 .card-information > .rating {
