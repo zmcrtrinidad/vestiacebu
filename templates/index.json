@@ -26,7 +26,7 @@
           "settings": {
             "image": "shopify:\/\/shop_images\/17.jpg",
             "heading": "Elegance You Can Wear",
-            "heading_size": "h2",
+            "heading_size": "h1",
             "subheading": "",
             "button_label": "SHOP NOW",
             "link": "shopify:\/\/collections\/all",
@@ -44,7 +44,7 @@
           "settings": {
             "image": "shopify:\/\/shop_images\/DSCF6021.jpg",
             "heading": "Elegance You Can Wear",
-            "heading_size": "h2",
+            "heading_size": "h1",
             "subheading": "",
             "button_label": "SHOP NOW",
             "link": "shopify:\/\/collections\/all",
@@ -62,7 +62,7 @@
           "settings": {
             "image": "shopify:\/\/shop_images\/DSCF7708-2.jpg",
             "heading": "Elegance You Can Wear",
-            "heading_size": "h2",
+            "heading_size": "h1",
             "subheading": "",
             "button_label": "SHOP NOW",
             "link": "shopify:\/\/collections\/all",
