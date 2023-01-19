@@ -903,6 +903,7 @@ summary::-webkit-details-marker {
 .title,
 .title-wrapper-with-link {
   margin: 3rem 0 2rem;
+  color: #B76542;
 }
 
 .title-wrapper-with-link .title {
