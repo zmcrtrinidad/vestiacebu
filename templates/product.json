@@ -42,21 +42,6 @@
           "settings": {
           }
         },
-        "share": {
-          "type": "share",
-          "settings": {
-            "share_label": "Share"
-          }
-        },
-        "collapsible-tab-0": {
-          "type": "collapsible_tab",
-          "settings": {
-            "heading": "Materials",
-            "icon": "clipboard",
-            "content": "",
-            "page": ""
-          }
-        },
         "collapsible-tab-1": {
           "type": "collapsible_tab",
           "settings": {
@@ -74,6 +59,12 @@
             "content": "",
             "page": ""
           }
+        },
+        "share": {
+          "type": "share",
+          "settings": {
+            "share_label": "Share"
+          }
         }
       },
       "block_order": [
@@ -84,10 +75,9 @@
         "quantity_selector",
         "buy_buttons",
         "description",
-        "share",
-        "collapsible-tab-0",
         "collapsible-tab-1",
-        "collapsible-tab-2"
+        "collapsible-tab-2",
+        "share"
       ],
       "settings": {
         "enable_sticky_info": false,
