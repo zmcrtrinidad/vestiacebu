@@ -51,15 +51,6 @@
             "page": "size-guide"
           }
         },
-        "collapsible-tab-2": {
-          "type": "collapsible_tab",
-          "settings": {
-            "heading": "Care information",
-            "icon": "heart",
-            "content": "",
-            "page": ""
-          }
-        },
         "share": {
           "type": "share",
           "settings": {
@@ -76,7 +67,6 @@
         "buy_buttons",
         "description",
         "collapsible-tab-1",
-        "collapsible-tab-2",
         "share"
       ],
       "settings": {
