@@ -129,10 +129,10 @@
           "announcement-bar-0": {
             "type": "announcement",
             "settings": {
-              "text": "Welcome to our store",
+              "text": "30% OFF ON ALL ITEMS. USE CODE: HEYCHICA",
               "text_alignment": "center",
               "color_scheme": "accent-2",
-              "link": ""
+              "link": "shopify:\/\/collections"
             }
           }
         },
