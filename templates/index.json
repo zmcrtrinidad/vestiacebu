@@ -163,6 +163,7 @@
         },
         "template--17056686080286__619c691d-a4b7-4af9-99c8-db7153aa0de6-166942249862f025e6-2": {
           "type": "featured_collection",
+          "disabled": true,
           "settings": {
             "collection": "mule"
           }
