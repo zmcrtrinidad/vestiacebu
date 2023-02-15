@@ -126,6 +126,15 @@
       "announcement-bar": {
         "type": "announcement-bar",
         "blocks": {
+          "032444ad-1692-48ab-a4dc-9c88ed6acd9b": {
+            "type": "announcement",
+            "settings": {
+              "text": "Free shipping for orders Php 1999 and above!",
+              "text_alignment": "center",
+              "color_scheme": "background-1",
+              "link": ""
+            }
+          },
           "announcement-bar-0": {
             "type": "announcement",
             "settings": {
@@ -137,7 +146,11 @@
           }
         },
         "block_order": [
+          "032444ad-1692-48ab-a4dc-9c88ed6acd9b",
           "announcement-bar-0"
+        ],
+        "custom_css": [
+
         ],
         "settings": {
         }
